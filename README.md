@@ -1,16 +1,68 @@
-## Hi there 👋
+# 👋 Hi, I'm Akshay Nath K S  
 
-<!--
-**Akshaynathks/Akshaynathks** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 **Flutter Developer | Firebase | BLoC Architecture | Clean Code Enthusiast**
 
-Here are some ideas to get you started:
+I'm a self-taught Flutter developer passionate about crafting beautiful, performant, and scalable mobile applications.  
+I focus on writing clean, maintainable code and delivering user-friendly experiences.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 💡 What I Do
+- 📱 Build cross-platform mobile apps with **Flutter**
+- 🧠 Manage state efficiently using **BLoC**, **Provider**, and **GetX**
+- ☁️ Integrate **Firebase**, **Cloudinary**, and **REST APIs**
+- 💳 Implement **payment gateways** (Razorpay)
+- 🧩 Follow **Clean Architecture** & best UI/UX practices
+
+---
+
+### 🛠️ Tech Stack
+| Category | Tools & Technologies |
+|-----------|---------------------|
+| **Language** | Dart |
+| **Framework** | Flutter |
+| **State Management** | BLoC, Provider, GetX |
+| **Backend/DB** | Firebase, Firestore, Hive, Sqflite |
+| **Tools** | Git, GitHub, VS Code, Android Studio, Figma |
+| **Others** | REST API, Cloudinary, Razorpay Integration |
+
+---
+
+### 🚧 Featured Projects
+
+#### 🎥 [Rent Cam](https://github.com/Akshaynathks/RentCam.git)
+A full-featured rental app for camera accessories and photographers.  
+Built with Flutter + Firebase + Cloudinary + Razorpay.  
+> _Includes user management, real-time chat, bookings, and payments._
+
+#### 🌱 [Life Leaf](https://github.com/Akshaynathks/LifeLeaf)
+Personal growth tracking app — helps users manage goals, habits, and journaling.  
+> _Local storage with Hive, streak tracking, and reminders._
+
+#### ☁️ [Weather App](https://github.com/Akshaynathks/Wether_app_bloc.git)
+Real-time weather updates using **OpenWeatherMap API** with **BLoC** pattern.
+
+#### 🍿 [Netflix Clone](https://github.com/Akshaynathks/NetFlix)
+A Flutter clone of Netflix using **TMDb API**.
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img height="150" src="https://github-readme-stats.vercel.app/api?username=Akshaynathks&show_icons=true&theme=tokyonight&count_private=true" />
+  <img height="150" src="https://github-readme-streak-stats.herokuapp.com/?user=Akshaynathks&theme=tokyonight" />
+</p>
+
+---
+
+### 🌐 Connect With Me
+<p align="center">
+  <a href="mailto:akshaynathks@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/akshay-nath-k-s-256b50261"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://github.com/Akshaynathks"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
+</p>
+
+---
+
+⭐ _“Code. Learn. Improve. Repeat.”_  
