@@ -12,7 +12,7 @@ I focus on writing clean, maintainable code and delivering user-friendly experie
 -  Manage state efficiently using **BLoC**, **Provider**, and **GetX**
 -  Integrate **Firebase**, **Cloudinary**, and **REST APIs**
    Implement **payment gateways** (Razorpay)
--  Follow **Clean Architecture** & best UI/UX practices
+-  Best UI/UX practices
 
 ---
 
